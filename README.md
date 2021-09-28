@@ -1,4 +1,6 @@
-# pet
+# Aplicativo PetShop – Cão.mia
+Desenvolver uma aplicação que utilize dos recursos aprendido nas disciplinas de Programming and Data Persistence e Engenharia de Software. Descrever os processos<br>
+
 Sistema produzido em Windows Forms, C# e Utilizando o Banco de Dados SQL Server<br>
 
 <p align="center">
